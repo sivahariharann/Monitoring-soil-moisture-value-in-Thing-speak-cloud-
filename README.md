@@ -97,7 +97,7 @@ char pass[] = "12345678";
 
 WiFiClient client;
 
-unsigned long myChannelNumber = 3473297;
+unsigned long myChannelNumber = 3473287;
 const int ChannelField = 1;
 const char * myWriteAPIKey = "44OX9037FXLTCQ0E";
 
@@ -139,9 +139,11 @@ delay(5000);
 }
 ```
 # OUTPUT:
-<img width="1588" height="991" alt="image" src="https://github.com/user-attachments/assets/3e9d5b79-3018-44a6-9576-7d1aee04735a" />
+<img width="1588" height="991" alt="image" src="https://github.com/user-attachments/assets/7904eebe-17e8-4d53-93c5-7da2a6d7c9ca" />
 
-<img width="1920" height="1200" alt="Screenshot 2026-08-28 135847" src="https://github.com/user-attachments/assets/71ea02b4-399a-464c-98a4-688462ec1388" />
+
+<img width="1920" height="1248" alt="image" src="https://github.com/user-attachments/assets/ce5879c8-085b-48d0-a552-4c6381ffac04" />
+
 
 
 # RESULT:
